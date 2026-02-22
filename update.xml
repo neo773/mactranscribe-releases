@@ -2,5 +2,17 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>mactranscribe Updates</title>
+<item>
+<title>1.0 (1)</title>
+<description><![CDATA[<div>
+    <h2>1.0 (1) - Initial Release</h2>
+<ul>
+<li>Initial release of mactranscribe</li>
+</ul>
+</div>]]></description>
+<sparkle:version>1</sparkle:version>
+<sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+<enclosure url="https://github.com/neo773/mactranscribe-releases/releases/download/v1.0-1/mactranscribe.dmg" sparkle:edSignature="tmRy5aw2oG8k5B/TneOlGJbnJ6kLqR0eH0Q70Hy6VY+hWK0/XZIF5BjGTbK/ARbM/+ru4GPMb5ZpBzcTq3+FDQ==" length="27846546" type="application/octet-stream"/>
+</item>
 </channel>
 </rss>
