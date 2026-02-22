@@ -3,6 +3,18 @@
 <channel>
 <title>mactranscribe Updates</title>
 <item>
+<title>1.0.3 (3)</title>
+<description><![CDATA[<div>
+    <h2>1.0.3 (3) - Bug Fix</h2>
+<ul>
+<li>Fixed microphone issue</li>
+</ul>
+</div>]]></description>
+<sparkle:version>3</sparkle:version>
+<sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+<enclosure url="https://github.com/neo773/mactranscribe-releases/releases/download/v1.0.3-3/mactranscribe.dmg" sparkle:edSignature="KQvsM+3KxsoPkBdpfHjkbVxao3luOzA3FPv1UmUBNXiQK2ZRfoVSXIJmKPaiYJjwRfk3COSTKnkHdNfJ43bABQ==" length="24656816" type="application/octet-stream"/>
+</item>
+<item>
 <title>1.0.2 (2)</title>
 <description><![CDATA[<div>
     <h2>1.0.2 (2) - DMG Installer Improvements</h2>
