@@ -3,6 +3,18 @@
 <channel>
 <title>mactranscribe Updates</title>
 <item>
+<title>1.0.4 (4)</title>
+<description><![CDATA[<div>
+    <h2>1.0.4 (4) - Bug Fix</h2>
+<ul>
+<li>Fixed microphone issue for real</li>
+</ul>
+</div>]]></description>
+<sparkle:version>4</sparkle:version>
+<sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+<enclosure url="https://github.com/neo773/mactranscribe-releases/releases/download/v1.0.4-4/mactranscribe.dmg" sparkle:edSignature="u41vKVvGPwveINM37cIbnpYEUCwyYJk1+gnSFHz5wyVovf4EmZol7lv3R3weR0CxWrRW3MlonTEabXd6D5dDCA==" length="24656925" type="application/octet-stream"/>
+</item>
+<item>
 <title>1.0.3 (3)</title>
 <description><![CDATA[<div>
     <h2>1.0.3 (3) - Bug Fix</h2>
