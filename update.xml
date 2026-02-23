@@ -4,3 +4,16 @@
 <title>mactranscribe Updates</title>
 </channel>
 </rss>
+<item>
+<title>1.0.1 (2)</title>
+<description><![CDATA[<div>
+    <h2>1.0.1 (2) - Initial Release</h2>
+<ul>
+<li>Initial Release</li>
+</ul>
+</div>]]></description>
+<sparkle:version>2</sparkle:version>
+<sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+<enclosure url="https://github.com/neo773/mactranscribe-releases/releases/download/v1.0.1-2/mactranscribe.dmg" sparkle:edSignature="Buzn9kdvpYfLM8Y0NvioVDWSuNiZjhR9Lo+KLQuNCF83sZC6fCB1cCAh8ui5r/XJiYi4wOif3CBnmtCZIF38AQ==" length="16411543" type="application/octet-stream"/>
+</item>
+</channel></rss>
