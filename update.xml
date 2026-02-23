@@ -3,6 +3,18 @@
 <channel>
 <title>mactranscribe Updates</title>
 <item>
+<title>1.0.7 (7)</title>
+<description><![CDATA[<div>
+    <h2>1.0.7 (7) - fix</h2>
+<ul>
+<li>fix</li>
+</ul>
+</div>]]></description>
+<sparkle:version>7</sparkle:version>
+<sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+<enclosure url="https://github.com/neo773/mactranscribe-releases/releases/download/v1.0.7-7/mactranscribe.dmg" sparkle:edSignature="BcEnsCx1aPtgfv5u5kWgD63Gn7iL+QQw3b5lYXFsz6O3moqRhfYi4zzZte5cTEZOyDEc6D1rG75pAEnxQOWvAQ==" length="22597704" type="application/octet-stream"/>
+</item>
+<item>
 <title>1.0.6 (6)</title>
 <description><![CDATA[<div>
     <h2>1.0.6 (6) - bug fix</h2>
