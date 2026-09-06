@@ -3,6 +3,25 @@
   <channel>
     <title>mactranscribe Updates</title>
     <item>
+      <title>1.1.0 (3)</title>
+      <description>
+        <![CDATA[<div>
+<h2>1.1.0 (3) - Redesign and performance</h2>
+<ul>
+<li>Redesigned settings, timeline and About</li>
+<li>Dictation history now reads like notifications, grouped by app</li>
+<li>Light mode follows the system properly</li>
+<li>Fixed a large memory leak during transcription</li>
+<li>Faster launch</li>
+</ul>
+
+</div>]]>
+      </description>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/neo773/mactranscribe-releases/releases/download/v1.1.0-3/mactranscribe.dmg" sparkle:edSignature="CvuOPf52QI2PV7yZ2+7zS0gXcid18nPBIEcoxxU1JYzTELIh00Sc25S/oqK1MAk2Jz5BkMOzFu2HLaZfAdrZBg==" length="1326948644" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>1.0.1 (2)</title>
       <description>
         <![CDATA[<div>
